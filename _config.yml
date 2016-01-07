@@ -2,6 +2,7 @@ name: "Stop N' Shop"
 favicon: null
 layout_spectrum: 0.647977244341746
 typography_spectrum: 0.5083835979457945
+title: "Stop N' Shop"
 cta:
   domain: null
   bucket: null
