@@ -1,0 +1,28 @@
+name: "Stop N' Shop"
+favicon: null
+layout_spectrum: 0.647977244341746
+typography_spectrum: 0.5083835979457945
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7549712271429598
+  lightness: 0.5094951179344207
+  saturation: 0.13894387404434383
+  rhythmicContrast: 0.8332449728623033
+purpose: []
